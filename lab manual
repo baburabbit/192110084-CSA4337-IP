@@ -1,0 +1,995 @@
+1.	CREATE A WEBSITE FOR THE LIBRARY MANAGEMENT SYSTEM WITH THE FOLLOWING FUNCTIONS.
+
+The system helps both students and library managers to keep constant track of all the books available in the library. It allows both the admin and the student to search for the desired book. It becomes necessary for colleges to keep a continuous check on the books issued and returned and even calculate fines.
+
+Librarian Admin:
+
+•	Login
+•	Add Book
+•	Update/Delete Book
+•	Issue Book for student
+•	Return Book Status
+•	Make Fine
+•	Update material ( year, semester wise )
+•	View material
+User
+•	Login
+•	Register
+•	Search Book
+•	My Borrow History Book
+o Issue Date, Exp Date
+•	Check Fine
+•	Search material ( year, semester wise )
+•	Download material
+•	My profile
+
+
+2.	CREATE A WEBSITE FOR ONLINE HOTEL ROOM BOOKING WITH THE FOLLOWING FUNCTIONALITIES
+
+Functionalities:
+Users.
+1.	Users can register at the hotel and then they can view or modify their profile.
+2.	Users can book a room on any specific date.
+3.	Users can view all their booking history at the hotel.
+4.	Users can change the booking at any time 3 days before the arrival date.
+ 
+5.	Users can cancel the booking at any time 3 days before the arrival date.
+6.	Users can check the room availability at the hotel before they book a room.
+
+Administrator
+7.	Administrators can change the quantity and price of all four types of rooms.
+8.	Administrators can change any specific booking details.
+9.	Administrators can cancel any specific booking.
+10.	Administrators can modify the details of static pages including room information, about us information, contact us information, customer service Q&A details, local travel and shipping guide, and privacy policy after login.
+11.	It should also contain a basic room type introduction, contact information, customer service Q&A, local travel and shipping guide, and a privacy policy
+
+
+3.	CREATE A WEBSITE FOR AN ONLINE BUS TICKET BOOKING SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+
+Admin
+In this system, the admin can maintain all the Bus information and maintain Bus category, comments etc.
+
+In this system, the admin can maintain the registered users, manage news, and the admin can generate reports and manage the whole system.
+
+Login:
+Login Module includes various utilities like User Authentication, Change Password and Forgot Password.
+
+Registration:
+This website provides some facilities users can be Registered in this website. user can use this facility so user can make a registration
+.
+Book the Ticket:
+In this module, the admin can add a new bus category using this module. Bus Category contains like Volvo, Slipper coach, coach etc.
+
+Update Bus Information:
+In this module, the admin can add or Update Bus using this module. It contains information about the Bus type, photo, description, Location of the tour, Available Seats in Bus etc.
+
+Cancel the Booking Ticket:
+In this Module, the User can cancel the booking Ticket.
+
+Comments:
+In this Module, Users can Post Comments on a particular Bus.
+
+Report Generation:
+This module is used to generate a report.
+ 
+4.	CREATE A WEBSITE FOR AN ONLINE TRAIN RESERVATION SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+
+The Reservation system should contain the following features:
+1.	If a passenger wants to reserve ticket(s), firstly, he/she has to log in to the Railway system with valid credentials. Then, the passenger has to provide his/her details with the date of the journey, names of the passengers and their details, origin station details, destination station details, and the class type of the required ticket(s).
+2.	The Railway Reservation System will provide the available Train-list, and Seat- availability, via-details.
+3.	To book a ticket passengers can pay through online/offline mode. After successful payment of the ticket fare the System will generate the ticket and PNR no. will be given to the passenger. The System also keeps the payment details and sends them to the system Admin.
+4.	The Passenger can check PNR status (confirmed, RAC, waiting list) by entering the PNR no. into the Reservation system.
+5.	The Reservation system should store all train details, fare details (by zone, class, and date wise), PNR no, date of trains, etc. This maintenance should be controlled by the Admin.
+6.	The System also has refund rules which have a date of reservation, ticket fare, and refundable percentage. The passenger can simply cancel the ticket(s) by entering the PNR no and a cancel ticket request. After cancellation, the admin will pass the refundable amount to the System and the System will give the refundable amount to the passenger.
+
+
+5.	CREATE A WEBSITE FOR AN ONLINE FLIGHT RESERVATION SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+
+The airline reservation system is a web-based system that helps in consolidating flight data - flight schedules, seat availability, flight fares and reservations from all airlines with the help of global distribution systems and provides real-time inventory and rates for customers and travel agents to book flight tickets online.
+•	Administrator User Login Page
+•	Forgot Password Page
+•	Search Flight Page
+•	Book Ticket Page
+•	Ticket Payment Page
+•	My Ticket Page
+ 
+•	Cancel Ticket Page
+•	Customer Feedback
+•	Admin Report
+•	Search Flight Page
+•	View Booking Status Page
+•	Print Ticket Page
+
+
+6.	CREATE A WEBSITE FOR AN ONLINE CAKE ORDERING SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+
+Buy a Cake is a portal which allows admin in developing counters to advertise and sell their cake. This would permit rural communities to make their wares available to the rest of the world.
+
+The proposed system is to develop the website for cake store. User can buy the nearby cake available in app. An E Com App is a portal which allows admin in developing proucds to promote and sell their goods. This would permit rural communities to make their wares available to the rest of the world.
+
+
+ 
+7.	CREATE A WEBSITE FOR AN ONLINE BEAUTY PARLOUR APPOINTMENT BOOKING SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+This website helps customers to search for any beauty parlour and book appointments as they preferable date and time.
+
+Have a reservations calendar
+	Create, edit, and cancel reservations
+	Lockout unavailable hours
+	Get the crucial information for each date on the calendar Customers’ personal account page
+	Upcoming reservations
+	Reservations history
+	Personal data
+Salon manager and staff member in order to control and manage reservations.
+	Upcoming reservations
+	Reservations calendar
+	Add reservation
+	Edit reservations
+	Send an SMS or call to the customer
+	customers leave feedback about their experiences and learn from their suggestions.
+
+Accept online payments as a whole payment or as a partial deposit with Stripe or PayPal or with one of the available payments
+
+	Require full payment or a deposit
+	Accept PayPal or Stripe
+	Automatic cancellation of unpaid reservations
+	We have more than twenty different payments platforms integration add-ons
+
+
+8.	CREATE A WEBSITE FOR AN ONLINE HOSPITAL APPOINTMENT BOOKING SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+This website helps the patient to search any hospital and book appointments as they prefer.
+
+•	Search Module
+•	Appointment Booking
+•	Check-in form Submitting
+•	Appointment management
+•	Schedule a timing
+•	Past appointment Management
+Admin Features
+•	Manage appointments
+•	Manage doctors
+•	View Appointments statistics
+•	Rating Details
+ 
+Patient Features
+•	Signup/Login.
+•	Can choose and book an appointment at the flexible time and date.
+•	Can search for doctor according to specialty and location.
+•	Can write reviews about the doctor and can select doctors according to other user feedback.
+•	Can access all previous check-in details and medical past appointment
+User
+•	User Registration
+•	User Login
+•	Search Location wise
+•	View Hosptial list
+•	Book Appointment
+•	View status
+•	View google map for single hospital
+Hospital
+•	Hospital Registration
+•	Hosptial login
+•	Create hostpital details
+•	Update details
+•	Update location
+
+
+9.	CREATE	A	WEBSITE	FOR	AN	ONLINE	SHOPPING	SYSTEM	FOR ELECTRONIC GADGETS USING THE FOLLOWING FUNCTIONALITIES
+The core of an online shop is the product catalogue and the cart. The users browse products which are grouped in categories and add the desired ones to the cart. Next, there is transaction handling, which in its simplest form consists in the order being sent via e-mail to the seller, but most often it takes the whole buying process through separate order statuses.
+
+	Products should be logically categorized, with the most popular categories listed first.Display all the available categories for shopping on the home page.
+	Display all the subcategories on the home page, that are associated with any particular item.
+	Admin has the authority to add new particulars to the items list whenever needed.
+	Permission to the administrator to remove items, anytime.
+	Allows the admin to modify the price of each item, whenever required or felt like.
+	Admin has the authority to update the description of each item.
+	Permission to the admin to view information about each customer who checkouts the items list.
+
+Use Cases
+1.	Visit a site
+2.	Login
+3.	Search for Items
+4.	Check Availability of Items
+5.	Add Items to Shopping Cart
+6.	Edit Items in the Shopping Cart
+7.	remove Items from the Shopping Cart
+8.	Check out the Shopping Cart
+ 
+9.	Check Order Status
+10.	Browse Order History
+11.	Display Item Details
+12.	Logout
+13.	Leave a site
+
+
+10.	CREATE A WEBSITE FOR AN ONLINE SHOPPING SYSTEM FOR FASHION WEAR USING THE FOLLOWING FUNCTIONALITIES
+The core of an online shop is the product catalogue and the cart. The users browse products which are grouped in categories and add the desired ones to the cart. Next, there is transaction handling, which in its simplest form consists in the order being sent via e-mail to the seller, but most often it takes the whole buying process through separate order statuses.
+	The key to helping customers find the products they need quickly is to offer a user- friendly navigation system.
+	Products should be logically categorized, with the most popular categories listed first.
+
+	Display all the available categories for shopping on the home page.
+	Display all the subcategories on the home page, that are associated with any particular item.
+	Admin has the authority to add new particulars to the items list whenever needed.
+	Permission to the administrator to remove items, anytime.
+	Allows the admin to modify the price of each item, whenever required or felt like.
+	Admin has the authority to update the description of each item.
+	Permission to the admin to view information about each customer who checkouts the items list.
+
+Use Cases
+2. Visit a site
+2.	Login
+3.	Search for Items
+4.	Check Availability of Items
+5.	Add Items to Shopping Cart
+6.	Edit Items in the Shopping Cart
+7.	remove Items from the Shopping Cart
+8.	Check out the Shopping Cart
+9.	Check Order Status
+10.	Browse Order History
+11.	Display Item Details
+12.	Logout
+13.	Leave a site
+ 
+11.	CREATE A WEBSITE FOR AN ONLINE REAL ESTATE SERVICE USING THE FOLLOWING FUNCTIONALITIES
+This website helps the user to search and book lands/houses in their required area in their budget.
+	Provide a login page for buyers and store their username and password in the database and can save the search criteria for the buyers.
+	Helps the buyers to use the same search criteria rather than creating a new criterion every time the buyer performs the search.
+	Add more advertisements on the website or links to another website.
+	Add agent and company search functionality.
+	Displaying the search results on Google Maps and locating the area where the property listing is located.
+	It should be friendly and pretty
+	Store and give details of properties
+	Maintain record of customers visited the website
+
+12.	CREATE A WEBSITE FOR AN ONLINE INSURANCE MANAGEMENT SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+This system maintains information of managers who can deal with agents and customers. In existing system, the manual procedure is followed where records are used to maintain data which is a time taking process and requires manpower and calculating commissions dues. Etc are done manually. This system is where agents send SMS alerts to the policyholder to remind them before and exceed the data of due.
+Admin
+•	Login
+•	Approve Agent login
+•	View all agent details
+Agents
+•	Register
+•	Login
+•	Create Customer
+•	Manager Customer Details
+•	Manage Policy Details
+•	Send SMS Alert
+User
+•	Login
+•	Manage policy details
+•	Get sms alert
+ 
+13.	CREATE A WEBSITE FOR AN ONLINE FLOWER AND GIFT DELIVERY SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+The core of an online shop is the product catalogue and the cart. The users browse products which are grouped in categories and add the desired ones to the cart. Next, there is transaction handling, which in its simplest form consists in the order being sent via e-mail to the seller, but most often it takes the whole buying process through separate order statuses.
+	The key to helping customers find the products they need quickly is to offer a user- friendly navigation system.
+	Products should be logically categorized, with the most popular categories listed first.
+
+	Display all the available categories for shopping on the home page.
+	Display all the subcategories on the home page, that are associated with any particular item.
+	Admin has the authority to add new particulars to the items list whenever needed.
+	Permission to the administrator to remove items, anytime.
+	Allows the admin to modify the price of each item, whenever required or felt like.
+	Permission to the admin to view information about each customer who checkouts the items list.
+
+Use Cases
+
+
+14.	CREATE A WEBSITE FOR AN ONLINE SECOND-HAND GOODS BUYING AND SELLING SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+	User Management
+The system login successfully and the network connection is working.
+	The administrator set login account and password.
+	Editing User
+	Deleting User
+	Category Management
+	Add category information.
+	Delete category information
+ 
+	Commodity Management
+	Editing Commodity
+	deleting Commodity
+	Order Management
+	Change logistics status: (Shipped/ Received)
+	Delete Order
+
+
+15.	CREATE A WEBSITE FOR AN ONLINE TOLL GATE PAYMENT APPLICATION USING THE FOLLOWING FUNCTIONALITIES
+This website should help the user to pay toll in advance therefore not to wait in queue while travelling.
+Admin:
+•	Login
+•	Manage User & Toll pass
+•	Manage Toll login
+•	Approve toll pass
+•	Generate QR Code
+•	Create Toll details
+User:
+•	Register
+•	Login
+•	Add Money – eWallet
+•	Buy Toll eTicket
+•	Apply New toll pass
+•	Renewal toll pass
+•	Apply Toll pass
+•	Get QR Code for Toll pass
+Toll Gate User :
+•	Login
+•	Scan QR
+•	Verify toll pass ID
+•	Verify Toll ticket
+•	Update toll location
+
+
+16.	CREATE A WEBSITE FOR AN ONLINE COMPLAINT REGISTRATION AND MANAGEMENT SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+This website should help the public to get their problems solved online without going to the officer regularly
+USER
+•	Login
+•	Register
+•	Post Complaint
+•	Location Mark in Google Map
+ 
+•	View complaint status
+•	Feedback
+•	Get Admin Contact details
+OFFICER
+•	Register
+•	Login
+•	View Complaint
+•	Update status
+•	Update proof of work
+ADMIN
+•	Generate id & password for officer
+•	The administrator has full-fledged rights over the OES.
+•	Can create/delete an account.
+•	Can view the accounts.
+•	Can change the password.
+•	Can hide any kind of features from both of users.
+•	Insert the information of available on OES. Can access all the accounts of the officer.
+
+
+17.	CREATE A WEBSITE FOR E. VOTING SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+In the first step, the registration process is done by the voters through an application. Then in the second step, the application will start its process. The already existing database or centralized database, contains voter information with linked mobile numbers. The server sends the OTP (One-Time Password) to the voter’s registered mobile number. Then the voter enters that OTP, then the database again verifies that entered OTP by the voter and if it is correct that means it is a valid user. After that, the candidate’s list will appear. This list contains the candidate’s name and in front of that name, the button named ‘Vote’ is provided. The voter should have to press that button then only the voting is done and the voting procedure is completed.
+Admin
+•	Create Election Candidate
+•	Allocate election Data with Candidate
+•	Allocate user to election wards
+•	Create Voter List
+•	Import Voter List
+•	View & update Voter List
+•	Get Election Results
+USER
+•	Login using Voter ID
+•	OTP Login Verification
+•	Get OTP for Voting
+ 
+•	Select Candidate
+•	Submit Vote
+
+18.	CREATE A WEBSITE FOR AN ONLINE AGRI SHOP USING THE FOLLOWING FUNCTIONALITIES
+This website should serve as a platform for farmers’ growers and retailers or customers to sell and buy their farm products. This system aims at giving a profitable price to farmers for their farm products cutting the middlemen. This allows the retailers or the customers to buy products from the farmers at a lower than the normal price. This system is used by farmers and users. Farmer uploads their product with details and buyers view these details and book that product within a time.
+FARMER
+•	Login
+•	Register
+•	OTP Verification
+•	Manage Orders
+•	Update order Status
+•	Add Product
+•	Update/Delete product
+•	Upload images
+•	My Sales
+•	Update Shipping Status
+•	Logout
+
+
+PUBLIC
+
+•	Register
+•	Login
+•	OTP Verification
+•	My Account
+•	Manage Wallet Balance
+•	View product details
+•	Search product
+•	Add to cart
+•	Edit/Delete Cart
+•	Add/Edit Shipping Address
+•	Order Product
+•	My Order status
+•	View Shipping Status
+ 
+19.	CREATE A WEBSITE FOR ONLINE VETERINARY CARE FOR ANIMAL MEDICAL SOLUTIONS SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+
+The farmer must send his animal’s signs and symptoms to doctor in video, audio, images or text form. The doctor will receive the farmer’s requests and respond. The user’s data will be automatically added to the database. The farmer has to register first and has to subscribe. A farmer will freely subscribe to Govt. CVHs. He must pay a fee if he will subscribe to the private clinic’s doctor. There will be two payment gateways for the farmers, bank transfer (Doctor will provide his bank information while creating his profile) and easy paisa. Doctors will provide their bank details for payments. He can also provide easy paisa account details. There will be images of influenced animals with basic diseases and their prescriptions. Based on recorded data, the system can perform an analysis that which disease attacks on pets mostly in a specific area
+USER
+•	Register
+•	Login
+•	Post Complaint
+•	My Complaint Status
+•	View Vetcure details
+•	View News
+•	View Doctor
+•	View Report
+•	Post Feedback
+•	Make Payment
+•	My Profile
+Doctor
+•	Register
+•	Login
+•	View Complaint
+•	Post Solution
+•	Manage Cure
+•	Manage news
+•	View user Details
+•	View Payment Details
+•	Feedback Details
+
+
+20.	CREATE A WEBSITE FOR AN ONLINE VEHICLE RENTAL SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+Key Features
+
+•	Search Module
+•	Appointment Booking
+•	Check-in form Submitting
+•	Appointment management
+•	Schedule a timing
+ 
+•	Past appointment Management
+•	Reviews Admin
+•	Login
+•	Add Vehicle
+•	Manage Vehicle details
+o	Type, Price, Etc
+•	Manage Booking details
+o	Approve User Booking
+•	My profile User
+•	Register
+•	Login
+•	Search Vehicle details
+•	Select Vehicle & Make Booking
+o	Name, Customer No, Address, Type
+•	View Booking Status
+•	My profile
+
+
+21.	CREATE A WEBSITE FOR JOB APPLICATION WEBSITE USING THE FOLLOWING FUNCTIONALITIES
+Applicants can browse through the vacancy details that are posted and can apply for the jobs online. Director can browse through the posted resumes and select suitable candidates. Filter, Search facility for User according to their required vacancy. Daily updates via notifications and other communication media. Sending resume saves effort, time and cost of user All vacancies are available on a single interface user can set privacy level for different companies’ user can save jobs according to their needs.
+Admin
+•	Login
+•	Approve director
+•	View User
+•	View Report Director
+•	Register
+•	Login
+•	Post Vacancy
+o Image, description, contact, etc
+•	View Vacancy
+•	View applied users
+•	Logout User
+•	Register
+•	Login
+•	Search vacancy
+•	Filter by location wise, category.
+•	Apply for vacancy
+•	Logout
+ 
+22.	CREATE A WEBSITE FOR A GARBAGE MANAGEMENT SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+•	Solid waste management can be broadly categorized as segregation, collection, and transportation.
+•	The server will collect the data and store them only a database. This data will be analysed and displayed on two different dashboards that can be accessed by the workforce and clients.
+•	Using data analytics, reports will be generated which can be monitored by the admins through the admin dashboard.
+•	Based on the data collected, garbage trucks can be given routes generated through various algorithms and google maps API to efficiently route through all necessary garbage bins and finally reach the dumping site Effective usage of dustbins.
+
+Administrator
+o	Login
+o	Create Garbage bin
+o	Update/Delete garbage bin
+o	Assign best route for drivers
+o	Manage driver
+o	View Garbage Report
+o	View complaints from public
+•	General Public
+o	Register
+o	Login
+o	Register complaint
+o	My complaint & status
+•	Driver
+o	Login
+o	Check daily work updates
+o	Choose best route
+o	Update garbage load
+
+
+23.	CREATE A WEBSITE FOR BLOOD BANK MANAGEMENT SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+
+The blood management information system offers functionality to quick access to donor records collected from various parts of the country. It enables monitoring of the results and performance of the blood donation activity such that relevant and measurable objectives of the organization can be checked. It provides to management timely, confidential and secure medical reports that facilitates planning and decision making and hence improved medical service delivery. The reports generated by the system give answers to most of the challenges management faces as far as blood donor records are concerned.
+ 
+DONOR/USER
+•	Login
+•	Register
+•	Post Donar information
+•	My donar info
+•	Search donar details
+•	Search Blood bank details
+•	Logout
+HOSPITAL
+•	Register
+•	Login
+•	Post Blood bank info
+•	Update blood group status
+•	View Blood bank details
+•	Logout
+
+
+24.	CREATE A WEBSITE FOR TRAVEL AGENCY WEBSITE USING THE FOLLOWING FUNCTIONALITIES
+
+The system allows one to easily access the relevant information and make necessary travel arrangements. Users can decide about places they want to visit and make bookings online for travel and accommodation.
+•	User
+•	Admin
+USER
+•	Register
+•	Login
+•	View Food Details
+•	View Hostel Details
+•	View Route Details
+•	My Book Accommodation
+ADMIN
+•	Login
+•	Post Tourism Details
+•	Manage Food Details
+•	Manage Hotel Details
+•	Manage Route Details
+•	View Booking Details
+ 
+25.	CREATE A WEBSITE FOR ON-ROAD VEHICLE BREAKDOWN ASSISTING USING THE FOLLOWING FUNCTIONALITIES
+
+On Road Vehicle Breakdown Assistance system can search for list of mechanics at any location or the nearby locations which will help them in an unexpected situations raised by the mechanical issues of their vehicles. Only the licensed mechanics can get listed here while the search. Road assistance for car and there are available mechanic who can come and repair the mechanical issues in the users vehicle.
+User modules:
+•	Register
+•	Login
+•	Search Mechanic Details
+•	View Google geo location
+•	Post feedback
+•	My profile
+Admin modules:
+•	Provide Approval
+Mechanic modules:
+•	Register
+•	Login
+•	Post Business
+•	Manage Business
+•	View feedback
+
+
+
+26.	CREATE A WEBSITE FOR ONLINE COLLEGE TRAFFIC SQUAD: PENALITY COLLECTION & MANAGEMENT USING THE FOLLOWING FUNCTIONALITIES
+This web site provides traffic police to create online FIR with the vehicle owner and vehicle photo as proof, user side receives the fir receipt with fine details. In this application, user can to see the penalty imposed on the owner of the vehicle. By doing this the tendency of getting away without being penalized will reduce and subsequently the traffic violation will be mitigated without industrious use of human resources. Traffic Squad: Penalty Collection & management-based web Application
+User
+•	Register
+•	Login
+•	View Challan
+•	View Case Filed
+Police
+•	Login
+•	Rules
+•	Create Case
+o	Upload proof photo
+•	Manage
+o	Live information of traffic report – New updates
+ 
+•	Google map traffic – Link
+Admin
+•	Manage Police Login
+•	View Daily Report
+
+27.	CREATE A WEBSITE FOR ONLINE BUS PASS MANAGEMENT SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+The bus pass will differ for different types of users. In this bus pass, all the required details such as candidate’s name, address, date of birth, mail id, name of the school, validity period, the amount paid (free for government school students) and photocopy of the candidate are provided. Instead of school details, working organization details will be provided in route bus pass. The renewal process can be done monthly as per user wish. Based on that renewal period amount will be deducted.
+1.	Admin:
+•	Login
+•	Manage student & route pass
+•	Manage conductor login
+•	Approve bus pass
+•	Generate QR Code
+•	Create Bus details
+•	Create Route Information
+o From to , Time , Route Stopping
+2.	User:
+•	Register
+•	Login
+•	Add Money – eWallet
+•	Buy Bus eTicket
+•	Apply New bus pass
+•	Renewal bus pass
+•	Apply Student & Route pass
+•	Get QR Code for Bus pass
+•	Calculate expected time to reach
+3.	Conductor :
+o	Login
+o	Scan QR
+o	Verify bus pass ID
+o	Verify Bus ticket
+o	Update bus location
+
+
+
+
+
+
+
+
+
+
+28.	Design and develop a portfolio website dedicated to showcasing the work and achievements of your favorite artist, musician, or writer. The website serves as a digital tribute and comprehensive resource for fans and admirers. Below are key components and features to include:
+
+1. Homepage:
+•	Create an engaging homepage that introduces visitors to the artist and sets the tone for the website.
+•	Include an attractive banner image or artwork representative of the artist's work.
+2. About the Artist:
+•	Develop a page that offers a detailed biography or profile of the artist, including background information, influences, and artistic journey.
+•	Include a high-quality photo or portrait of the artist.
+3. Portfolio:
+•	Organize and present the artist's work, such as artworks, music albums, or written pieces.
+•	For visual artists, provide galleries with high-resolution images and descriptions of individual pieces.
+•	For musicians, feature audio clips or embed music players for sample tracks.
+•	For writers, display excerpts from books, articles, or poems.
+4. Discography or Bibliography:
+•	Create a comprehensive list of the artist's works, including albums, songs, books, articles, or any other significant creations.
+•	Include publication or release dates and ISBN/UPC details, if applicable.
+5. Media Gallery:
+•	Incorporate a media section with photos, videos, interviews, or media coverage related to the artist.
+•	If available, embed YouTube or Vimeo videos of live performances or interviews.
+6.News and Updates (Optional):
+•	Include a section for the latest news, updates, or events related to the artist, with announcements of upcoming exhibitions, concerts, or book releases.
+7.Interactive Features (Optional):
+•	Integrate social media feeds, allowing visitors to follow the artist's official profiles.
+•	Enable users to subscribe to newsletters for artist updates.
+
+29. Event page : Creating a static page displaying the details of an event (conference, webinar, product launch, etc.). You will need both HTML and CSS for this project.
+The layout of the event page will be simple. The header section will contain the names and images of the different speakers with links, the event venue, and the schedule. You must also include a section that describes the purpose of the event – what the event is for and which category of audience it aims to target. Section the page into smaller chunks to make it look neat. Choose the right font style, font color, and background color for individual sections on the page. Also, make sure to add a registration button so that interested people can register for the event.
+30.Create a website for a Scopus indexed journal publisher named IJSSE with following menus and registration, for the authors, reviewers and editors. 
+	The website should contain about journal, print ISSN 2395-1443 and online ISSN 2395-1451 and following menus.
+	1) Home page 
+	2) About Journal 
+	3) Publication ethics 
+	4) Editorial board 
+		i) Editor registration
+		ii) Editor Login
+		iii) Editorial committee
+		iv) Editor responsibility
+	5) Reviewers 
+		i) Reviewer registration
+		ii) Reviewers login
+		iii) List of reviewers for specific article.
+	6) Author
+		i) Author registration
+		ii) Author login
+		iii) List of papers under an author 
+		iv) Author Instructions
+		v) Publication charge
+		vi) Article Template
+		vii) Copyrights form Template
+		viii) Author guidelines
+	7)Articles
+		i) Current issue
+		ii) Archive
+		iii) Most viewed articles
+		iv) Most cited articles
+		v) About to print articles
+	8) Call for paper
+		i) Submit Manuscript
+		ii) Indexed List
+		iii) Subscribe Newsletters
+		iv) View feedback
+	9) Contact Us.
+
+		
+31.Create a website for a smart dairy farmer with name “Ko-matha Dairy farm” where Indian A1 cow holders delivers the milk, the farm sell the milk and make curd, cova-sweet, butter, gee to the customers.
+	The website should contain home page, about us, contact us and so on with following data maintenance: They are
+1)	The administrator detail
+	Registration form
+	Login form
+2)	Stock detail
+	Stock entry form
+	Daily report
+	Monthly report
+	Yearly report
+3)	Customer detail
+	Purchase detail
+	Customer online purchase order
+4)	Milk vender detail
+	Vendors information 
+	Cow detail maintenance
+
+
+
+
+
+
+
+
+32. Create a website for online laptop sales and service in Ram infotech.
+	1) Admin detail – Login, Registration form detail
+	2) Sales – Laptop detail, model, configuration 
+	3) Services – Laptop services information
+	4) Customer information – Purchase / Services 
+	5) Laptop renal agreement detail
+	6) Stock maintenance in the shop.
+
+33. Create a website for online restaurant booking system at Kodaikanal.
+	1) Admin detail – Login, Registration form detail
+	2) Suit detail and cost– single room, double rooms, deluxe rooms
+	3) Rooms availability detail
+	4) Online booking system detail- Seasonal / Non-seasonal
+	5) Room boys availably detail
+	6) Customer detail
+
+34. Create a website for a Tuition centre announcement and maintenance. The following detail should be available in the website.
+	1) Admin detail – Login, Registration form detail
+ 	2) Teachers detail – Login, Registration form detail
+	3) Students detail – Fees paid detail, Report- monthly and yearly, feedback report
+	4) Subjects detail – Duration, fees detail.
+	5) Online / Offline tuition availability.     
+
+
+35. CREATE A WEBSITE FOR ONLINE BUS PASS MANAGEMENT SYSTEM USING THE FOLLOWING FUNCTIONALITIES 
+The bus pass will differ for different types of users. In this bus pass, all the required details such as candidate’s name, address, date of birth, mail id, name of the school, validity period, the amount paid (free for government school students) and photocopy of the candidate are provided. Instead of school details, working organization details will be provided in route bus pass. The renewal process can be done monthly as per user wish. Based on that renewal period amount will be deducted. 
+1.	Admin: 
+• Login 
+• Manage student & route pass 
+• Manage conductor login 
+• Approve bus pass 
+• Generate QR Code 
+• Create Bus details 
+• Create Route Information 
+o From to , Time , Route Stopping 
+2.	User: 
+• Register 
+• Login 
+• Add Money – eWallet 
+• Buy Bus eTicket 
+• Apply New bus pass 
+• Renewal bus pass 
+• Apply Student & Route pass 
+• Get QR Code for Bus pass 
+• Calculate expected time to reach 
+3.	Conductor : 
+o Login o Scan QR 
+o Verify bus pass ID
+ o Verify Bus ticket 
+o Update bus location
+12.CREATE A WEBSITE FOR ONLINE TEACHING SYSTEM USING THE FOLLOWING FUNCTIONALITIES
+i. Student Registration
+ii. Teacher Registration
+iii. Subject Allocation / Registration
+iv. Time Management
+
+36. Design the following static web pages required for an online book store web site. 
+1) HOME PAGE: The static home page must contain three frames. 
+2) LOGIN PAGE  
+3) CATOLOGUE PAGE: The catalogue page should contain thedetails of all the books available in the web site in a table.
+4) REGISTRATION PAGE
+
+37. Design and develop a personal portfolio website that serves as an online showcase of your skills, projects, and resume. This website will be a representation of your professional identity and a valuable tool for potential employers or clients to learn more about you. The website should include the following components:
+
+1.Home Page:
+•	An attractive and welcoming homepage that introduces you.
+•	A brief bio or introduction that highlights your background and career objectives.
+•	Contact information, such as an email address or contact form.
+2.About Me:
+•	A dedicated page that provides more in-depth information about yourself.
+•	Details about your education, work experience, and professional achievements.
+•	Your skills, strengths, and any certifications or awards.
+3.Portfolio:
+•	A portfolio section showcasing your projects, both personal and professional.
+•	Each project should have a title, description, and images or screenshots.
+•	Links to live projects or GitHub repositories if applicable.
+4.Resume/CV:
+•	A page that offers a downloadable version of your resume or CV in PDF format.
+•	Alternatively, you can present your resume information in a structured format on the page.
+5.Blog :
+•	If you enjoy writing or want to demonstrate your expertise, consider adding a blog section.
+•	Regularly publish articles related to your field of interest.
+6.Contact:
+•	Provide a dedicated contact page with a contact form.
+•	Include social media links and other methods for people to reach out to you.
+•	Design and Styling:
+7.Use HTML and CSS to create an aesthetically pleasing and responsive design.
+•	Ensure that the website is visually appealing and user-friendly on different devices and screen sizes.
+8.Navigation:
+•	Implement a clear and intuitive navigation menu that allows visitors to easily access different sections of your portfolio.
+
+38. Imagine and design a fully functional website for a fictional restaurant. This project aims to create a digital presence for the restaurant, enabling potential customers to explore its offerings, view the menu, and easily find contact information. The website should incorporate the following elements:
+
+1.Homepage:
+•	Create an engaging and visually appealing homepage that reflects the restaurant's theme and atmosphere.
+•	Include high-quality images of the restaurant's interior, exterior, and signature dishes.
+•	Add a welcoming message or tagline to set the tone for the dining experience.
+2.Menu Pages:
+•	Develop dedicated pages for the restaurant's menu items, organized by categories (appetizers, main courses, desserts, etc.).
+•	Include detailed descriptions of each dish, including ingredients and pricing.
+•	Integrate high-resolution images of the dishes to entice visitors.
+•	Implement navigation to easily switch between different menu categories.
+3.Contact Information:
+•	Create a separate page for contact information, including the restaurant's physical address, phone number, and email address.
+•	Embed an interactive Google Maps widget displaying the restaurant's location.
+•	Include a contact form to allow customers to submit inquiries, reservations, or feedback.
+4.Reservation System:
+•	If desired, implement an online reservation system that allows visitors to book a table.
+•	Include a calendar for selecting dates and times, along with the number of guests.
+5.About Us Page:
+•	Develop a page that provides background information about the restaurant, such as its history, concept, and culinary philosophy.
+•	Include images of the chef and the kitchen staff, along with their brief bios.
+6.Special Offers and Events:
+•	If applicable, create a section for special promotions, events, or seasonal menus.
+•	Include details of ongoing deals, happy hours, or upcoming celebrations.
+7.Testimonials and Reviews:
+•	If available, showcase customer testimonials and reviews to build trust and credibility.
+•	Include snippets of feedback from satisfied patrons.
+
+39.  Simple E-commerce Product Catalog : In this project, you will create a basic yet fully functional online store that allows users to browse and purchase products. The primary focus will be on presenting product listings and implementing a shopping cart system. Here are the key components and features to include:
+1.Homepage:
+•	Design a visually appealing homepage that introduces the online store and showcases featured products.
+•	Include a search bar, navigation menu, and clear calls to action to encourage users to explore the product catalog.
+
+
+
+
+2.Product Listings:
+
+•	Create individual pages for each product, complete with product descriptions, images, pricing, and availability status.
+•	Organize products into categories (e.g., electronics, clothing, accessories) for easy navigation.
+•	Implement filters or sorting options to allow users to refine their product search.
+3.Shopping Cart:
+•	Develop a shopping cart system that allows users to add products, view the contents of their cart, and adjust quantities.
+•	Calculate and display the total price of items in the cart.
+•	Provide options to remove items from the cart and clear the cart entirely.
+4.User Accounts (Optional):
+•	Create user accounts that enable users to save their shipping and billing information for future purchases.
+•	Allow registered users to view their order history and check the status of their orders.
+5.Checkout Process:
+•	Design a simple and intuitive checkout process that collects necessary customer information.
+•	Include a secure payment gateway to process payments for purchased items.
+6.Order Confirmation and Email Notifications:
+•	Send order confirmation emails to customers after they complete a purchase.
+•	Provide email notifications to users about the status of their orders, including shipping and delivery updates.                                                                                                                                                                                                                                                           
+40. Travel Blog Website: In this project, you will develop a travel blog website that serves as a platform for documenting your travel experiences and sharing them with the world. The website should offer a user-friendly and visually engaging interface for readers. Key features and components to include are as follows:
+1.Homepage:
+•	Create an inviting homepage that showcases recent or featured travel articles.
+•	Include a visually appealing header with a site logo and navigation menu for easy access to various sections.
+2. Blog Articles:
+•	Develop individual blog articles that narrate your travel adventures.
+•	Each article should include text content, high-quality images, and possibly videos.
+•	Implement a clean and readable layout for articles, including headings, paragraphs, and captions.
+3.Travel Destinations:
+•	Organize your blog posts by travel destinations or regions.
+•	Allow users to explore your articles by filtering them based on specific locations.
+4.Interactive Map:
+•	Integrate an interactive map that displays markers for the locations you've visited.
+•	Clicking on a marker should lead users to the respective travel articles related to that location.
+5.Photo Galleries:
+•	Create photo galleries within your articles to showcase your travel photos.
+•	Include features for users to view photos as slideshows or open them in larger formats.
+6.User Comments and Engagement:
+•	Implement a comment section on each blog post, encouraging reader engagement and discussions.
+•	Enable social media sharing for each article to expand your blog's reach.
+7.About the Traveler:
+•	Dedicate a page to introduce yourself, including your background, travel interests, and future plans.
+•	Include a photo and brief biography.
+41. Digital Recipe Book:This project involves designing and developing a digital recipe book, a comprehensive platform for sharing, organizing, and discovering culinary creations. The recipe book will provide users with a rich collection of recipes, including detailed instructions, ingredients, and visuals. Below are key components and features to include in your digital recipe book:
+1.User-Friendly Interface:
+•	Design a user-friendly and visually appealing interface that makes it easy for users to browse and search for recipes.
+•	Implement a clean and organized layout with intuitive navigation.
+2.Recipe Listings:
+•	Create an extensive database of recipes, organized into categories or tags (e.g., breakfast, main course, desserts, vegetarian).
+•	Include a search bar for users to quickly find recipes based on keywords or ingredients.
+3.Recipe Pages:
+•	Each recipe page should feature a high-quality image of the prepared dish.
+•	Include detailed cooking instructions, a list of ingredients, preparation time, and servings.
+•	Allow users to add their own reviews and ratings.
+4.Cooking Instructions:
+•	Provide step-by-step cooking instructions, including specific measurements and techniques.
+•	Add tips, variations, and cooking notes for each recipe.
+5.Ingredients List:
+•	Include a list of ingredients with their quantities and measurements, making it easy for users to create shopping lists.
+6.Recipe Search and Filter:
+•	Implement advanced search and filtering options, enabling users to refine recipe searches by dietary restrictions, cooking time, or cuisine.
+7.User Accounts (Optional):
+•	Allow users to create accounts, save their favorite recipes, and submit their own recipes.
+•	Implement features for users to customize serving sizes and generate ingredient lists accordingly.
+8.Comments and Discussions:
+•	Integrate a comments section for users to leave feedback, ask questions, or share their cooking experiences.
+•	Encourage a sense of community and collaboration among users.
+9.Print and Share:
+•	Enable users to print recipes in a formatted and printer-friendly layout.
+•	Include social media sharing options for users to share their favorite recipes with friends and family.
+
+42.Create a website for online payment to electricity bill. By using this the customer can pay their electricity bill
+ADMIN
+o	Login page
+o	Updating the formula for the calculation of bill for each customer with respect to   
+      the given constraints,
+o	If the type of the EB connection is domestic, Calculate the amount to be paid as follows
+o	First 100 units – Rs. 1 per unit
+o	101-200 units – Rs. 2.50 per unit
+o	201-500 Its – Rs. 4 per unit
+o	501 units – Rs. 6 per unit
+o	If the type of the EB connection is commercial, Calculate the amount to be paid as follows
+o	First 100 units – Rs. 2 per unit
+o	101-200 units – Rs. 4.50 per unit
+o	201-500 its – Rs. 6 per unit
+o	501 units – Rs. 7 Per unit
+o	Page updated every two months (Duration by start and end date), last date of payment 
+o	Fine amount calculation (each date after the last date Rs.10 will be added as fine.
+     CUSTOMER
+o	Registration Page
+o	Login Page
+o	Bill payment by any one payment method
+
+43. Create a website for conducting online placement examination for displaying selected student mark list.     
+      This website is used to conduct online examination for selecting students to get opportunity to work in a software company. The website should contain the following information 
+       ADMIN 
+•	Login
+•	Providing Login rights to Candidate for attending exam
+•	Scheduling the Exam
+•	Loading the question 
+•	Publishing the Result
+     CANDIDATE
+•	Login
+•	Attempt the exam by choosing allotted schedule
+•	Seeing the Result
+
+44. Create a webpage for rating the painting and displaying the positive and negative ratings about it. Admin has to create a webpage for loading and getting reviews about the painting from customer.
+ADMIN
+•	Login
+•	Loading and Collecting reviews of both positive and negative about the Painting 
+•	Updating the webpage by new painting based on schedules 
+•	Before updating the new painting show the positive and negative reviews of the previous painting 
+•	Login and Registration for owner of the painting 
+•	Collecting money based on the number of days the painting will be available (Package) for  customers review 
+•	Mode of Transaction 
+•	Customer Login through Social media or mail id authentication
+OWNER
+•	Registration includes submitting painting and choosing package and completion of      
+payment 
+•	Login
+•	Seeing their painting reviews
+CUSTOMER
+•	Authenticated Login
+•	Submitting reviews about the painting 
+
+45. Create a webpage to calculate income tax for an employee.  
+Website collecting input from employee needed for the calculation of income tax
+ADMIN
+•	Login
+•	Update the fields required for collecting input from employee 
+•	Modify the input value taken for the calculation based on government norms, Now your page can take the norms as follows,
+               Net Taxable Income = (Gross pay * 12) - (House Rent Allowance *12) -  
+                                           (Standard Detection =50,000)- {(Pension*12   Maximum    
+                                           detection of this category is 150,000} -) - (Health  
+                                           Insurance * 12 
+                if net taxable is below 500,000/- tax is Nil. if it exceeds condition then Tax
+calculation  
+                slab rate    given below is to be followed. 
+                       0 to 250,000   tax=0, 
+                       250,001 to 500,000  tax= 5% (net taxable income – 250,000)  
+                       500,001 to 1000,000   tax= 12, 500 + 20% (net taxable income – 500,000 ) 
+                       if the income > 10,00,000,  tax= 112,500 + 30% (net taxable income – 10,00,000).   
+EMPLOYEE
+•	Login by any of the existing authenticated credentials (like social media login or  gmail login)
+•	Calculating Tax page
+
+46. Create a website for online payment to Phone bill. By using this the customer can pay their phone bill
+ADMIN
+•	Login page
+•	Updating the formula for the calculation of bill for each customer with respect to the given  constraints,
+Upto 99 calls – Rs.50
+100 to 199 calls – 50 paise per call
+200 to 299 calls – 75 paise per call
+Above 300 calls – Re 1 per call     
+     Page updated every month (Duration by start and end date), last date of payment 
+     Fine amount calculation (each date after the last date Rs.10 will be added as fine)
+
+
+
+
+
+ CUSTOMER
+•	Registration Page
+•	Login Page
+•	Bill payment by any one payment method
+
+
